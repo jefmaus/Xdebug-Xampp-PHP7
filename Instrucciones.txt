@@ -2,10 +2,10 @@ Habilitar Xdebug en XAMPP con PHP7
 
 Para habilitar Xdebug en XAMPP con la nueva versión de PHP7, debemos hacer los siguientes pasos:
 
-Descargar el archivo php_xdebug.dll y pegarlo en la carpeta "ext" dentro de la carpeta "php" en la ruta donnde se instalo xampp.
+1. Descargar el archivo php_xdebug.dll y pegarlo en la carpeta "ext" dentro de la carpeta "php" en la ruta donnde se instalo xampp.
 C:\xampp\php\ext
 
-Abrir el archivo php.ini y agregar las siguientes lineas:
+2. Abrir el archivo php.ini y agregar las siguientes lineas:
 
 [XDebug]
 zend_extension = "c:\xampp\php\ext\php_xdebug.dll"
