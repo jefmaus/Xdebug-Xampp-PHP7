@@ -38,4 +38,4 @@ xdebug.trace_output_dir = "c:\xampp\tmp"
 xdebug.remote_cookie_expire_time = 36000
 
 
-3. Finalmente solo hay que reiniciar el servidor Apache y listo, ya puede utilizar xdebug.
+Finalmente solo hay que reiniciar el servidor Apache y listo, ya puede utilizar xdebug.
